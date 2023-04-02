@@ -1,2 +1,3 @@
 # Roblox-Script-to-kill
-Idk
+
+.game.Player.LocalPlayer.Humanoid.Health = 0
